@@ -30,9 +30,10 @@ Download the following datasets for the tutorial:
 - Install the [DTM code](https://github.com/blei-lab/dtm) 
 - Excecute `check_env.py` by running:
 ```
-python check_env.ipynb
+python check_env.py
 ```
 - The tutorial code has been tested for Python 3.6
+
 
 
 To run the notebooks, execute:
