@@ -28,7 +28,7 @@ Download the following datasets for the tutorial:
 
 - Install the dependencies using `pip install -r requirements.txt`
 - Install the [DTM code](https://github.com/blei-lab/dtm) 
-- Excecute `check_env.py` by running:
+- Execute `check_env.py` by running:
 ```
 python check_env.py
 ```
